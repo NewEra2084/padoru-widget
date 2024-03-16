@@ -1,0 +1,18 @@
+*{
+  box-sizing: border-box;
+}
+
+html, body{
+  height: 100vh;
+  margin: 0;
+}
+
+body{
+  position: relative;
+}
+
+#sakana-widget{
+  position: absolute;
+  bottom: 100px;
+  right: 160px;
+}
